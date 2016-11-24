@@ -10,8 +10,6 @@ public class BrainfuckInterpreter {
 
         int point = 0;
 
-        StringBuilder output;
-
         for (int i = 0; i < arraySymbols.length; i++) {
             int start = 0;
 
