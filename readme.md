@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/AkopV/BrainfuckInterpretator.svg?branch=master)](https://travis-ci.org/AkopV/BrainfuckInterpretator)
+
 Brainfuck it was designed by Urban Müller in 1993 with the aim to be a programming language suitable for a Turing Machine using the smallest possible compiler.
 
 This language comprehend of only eight elementary instruction, two of them are user for basic I/O.
