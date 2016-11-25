@@ -1,5 +1,6 @@
 package com.vardanian;
 
+import com.vardanian.BrainfuckInterpreter;
 import org.testng.annotations.Test;
 
 import static org.testng.Assert.assertEquals;
